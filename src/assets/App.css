@@ -1,0 +1,19 @@
+*{
+  margin:0;
+  padding: 0;
+  
+}
+.App {
+  text-align: center;
+  color: aliceblue; 
+  padding-bottom: 10%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.App h2{
+  text-align:left;
+  padding-left: 2%;
+}
+
+
+
